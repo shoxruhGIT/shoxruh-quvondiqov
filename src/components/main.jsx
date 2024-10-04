@@ -13,13 +13,13 @@ const Main = () => {
           </span>
         </p>
         <div className="main-social flex items-center gap-[20px]">
-          <a target="_blank" href="https://t.me/shohruh_frontend">
+          <a rel="noreferrer" target="_blank" href="https://t.me/shohruh_frontend">
             <i class="fa-brands fa-telegram"></i>
           </a>
-          <a target="_blank" href="https://github.com/shoxruhGIT">
+          <a rel="noreferrer" target="_blank" href="https://github.com/shoxruhGIT">
             <i class="fa-brands fa-github"></i>
           </a>
-          <a target="_blank" href="https://www.linkedin.com/in/shohrux-quvondiqov-33bb6625a/">
+          <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/shohrux-quvondiqov-33bb6625a/">
             <i class="fa-brands fa-linkedin"></i>
           </a>
         </div>
