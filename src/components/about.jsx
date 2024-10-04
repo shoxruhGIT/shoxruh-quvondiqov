@@ -8,7 +8,7 @@ const About = () => {
       <div className="flex flex-col items-start gap-[25px]">
         <h1 className="text-[24px] font-bold flex flex-col">
           I'm Shoxruh{" "}
-          <span className="text-[16px] font-semibold">Front-end developer</span>
+          <span className="text-[16px] font-semibold">Front-end developer / React developer</span>
         </h1>
         <p className="font-medium">
           I am currently a first-year student at Westminister International
