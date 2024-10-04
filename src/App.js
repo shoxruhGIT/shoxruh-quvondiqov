@@ -1,5 +1,5 @@
 import React from "react";
-import { About, Login, Main, Navbar, Portfolio, Register, Skills } from "./components";
+import { About, Main, Navbar, Portfolio, Skills } from "./components";
 import { Route, Routes } from "react-router-dom";
 
 const App = () => {
