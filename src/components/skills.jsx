@@ -15,7 +15,10 @@ import {
 
 const Skills = () => {
   return (
-    <div className="max-w-[1320px] m-auto pt-[170px] px-[75px]">
+    <div id="skills" className="max-w-[1320px] m-auto pt-[170px] flex flex-col items-center gap-[50px]">
+      <h1 className="text-[34px] font-bold flex items-center gap-[15px] ">
+        <i class="fa-solid fa-laptop-code text-blue-500"></i>Skills & Abilities
+      </h1>
       <div className="skill-items grid grid-cols-4 items-center justify-center gap-4 ">
         <p>
           <img className="w-[40px]" src={Html} alt="" /> HTML5

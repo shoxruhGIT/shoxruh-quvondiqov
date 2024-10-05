@@ -3,7 +3,7 @@ import Person from "../img/person.png";
 
 const Main = () => {
   return (
-    <div className="main max-w-[1320px] m-auto pt-[170px] flex items-center justify-between px-[75px]">
+    <div id='/' className="main max-w-[1320px] m-auto pt-[170px] flex items-center justify-between px-[75px]">
       <div className="flex flex-col gap-[30px]">
         <h1 className="main-name font-bold text-[28px]">Hi,I am</h1>
         <p className="flex flex-col font-bold text-[30px]">
