@@ -3,9 +3,9 @@ import Person from "../img/person.png";
 
 const Main = () => {
   return (
-    <div id='/' className="main max-w-[1320px] m-auto pt-[170px] flex items-center justify-between px-[75px]">
-      <div className="flex flex-col gap-[30px]">
-        <h1 className="main-name font-bold text-[28px]">Hi,I am</h1>
+    <div id='/' className="main max-w-[1320px] m-auto pt-[185px] flex items-center justify-between px-[75px]">
+      <div className="main-info flex flex-col gap-[30px]">
+        <h1 className="main-name font-bold text-[28px]">Hi, I am</h1>
         <p className="flex flex-col font-bold text-[30px]">
           Shoxruh Quvondoqov{" "}
           <span className="text-[24px] text-[#909090] font-medium">

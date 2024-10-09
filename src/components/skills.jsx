@@ -10,12 +10,16 @@ import {
   Native,
   Netlify,
   Reacts,
+  Redux,
   Tailwind,
 } from "../img";
 
 const Skills = () => {
   return (
-    <div id="skills" className="max-w-[1320px] m-auto pt-[170px] flex flex-col items-center gap-[50px]">
+    <div
+      id="skills"
+      className="max-w-[1320px] m-auto pt-[170px] flex flex-col items-center gap-[50px]"
+    >
       <h1 className="text-[34px] font-bold flex items-center gap-[15px] ">
         <i class="fa-solid fa-laptop-code text-blue-500"></i>Skills & Abilities
       </h1>
@@ -62,6 +66,11 @@ const Skills = () => {
         <p>
           {" "}
           <img className="w-[40px]" src={Netlify} alt="" /> Netlify
+        </p>
+
+        <p>
+          {" "}
+          <img className="w-[40px]" src={Redux} alt="" /> Redux
         </p>
       </div>
     </div>

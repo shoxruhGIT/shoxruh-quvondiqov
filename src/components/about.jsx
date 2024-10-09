@@ -3,7 +3,7 @@ import Me from "../img/me.jpg";
 
 const About = () => {
   return (
-    <div id="about" className="max-w-[1320px] m-auto px-[75px] flex flex-col items-center gap-[50px] pt-[170px]">
+    <div id="about" className="max-w-[1320px] m-auto px-[75px] flex flex-col items-center gap-[50px] pt-[190px]">
       <h1 className="text-[34px] font-bold flex items-center gap-[15px]">
         <i class="fa-solid fa-user text-blue-500"></i>About Me
       </h1>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Portfolio = () => {
   return (
-    <div id="portfolio" className=" max-w-[1480px] m-auto pt-[170px] flex flex-col items-center gap-[50px]">
+    <div id="portfolio" className=" max-w-[1480px] m-auto pt-[170px] flex flex-col items-center gap-[50px] pb-[30px]">
       <h1 className="flex items-center gap-[15px] text-[34px] font-bold">
         <i class="fa-solid fa-briefcase text-blue-500"></i>Portfolio
       </h1>
